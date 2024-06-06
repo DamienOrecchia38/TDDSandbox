@@ -1,0 +1,16 @@
+{
+  "name": "tddsandbox",
+  "version": "1.0.0",
+  "description": "Le TDD (Test Driven Development) a pour but d'écrire les tests avant d'écrire la fonction testée, et d'enrichir à la fois les tests et la fonction au fur et à mesure, en faisant bien attention que tous les tests écrits continuent à fonctionner lorsqu'on modifie la fonction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0"
+  }
+}
